@@ -1,0 +1,8 @@
+site_name: HDZero Docs
+
+theme:
+  name: material
+
+  palette:
+    scheme: slate
+    primary: red
